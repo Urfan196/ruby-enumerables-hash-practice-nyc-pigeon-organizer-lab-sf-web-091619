@@ -11,4 +11,3 @@ pigeon_list = {}
  end
   return pigeon_list
 end
-
